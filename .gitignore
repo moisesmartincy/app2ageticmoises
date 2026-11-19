@@ -1,0 +1,13 @@
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.stackdump
+.env
+.env.*
+.streamlit/secrets.toml
+*.pem
+*.key
+*.p12
+*.pfx
